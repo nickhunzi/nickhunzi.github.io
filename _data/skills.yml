@@ -3,34 +3,27 @@ header: Say something about what you're good at
 subheader: Give some more context
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Archery 
+    description: Really good at the iOS game. 
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Martial Arts
+    description: Watched a bit of anime so I think I can do that.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: PHP
+    description: Expert experience in a new and growing language. 
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: Baller
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+      -  How to be a baller.
+      -  Baller mentality.
+      -  Make moves like a baller
+  - name: Playa'
+    topics:
+    -  Introduction to playa' lifestyle
+    -  Walk like a playa'
+    -  Talk about your playa' money
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
 
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+ 

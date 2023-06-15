@@ -1,13 +1,7 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Golf Course Assistant
+  description: iOS application for tracking golf course shots and viewing personal and group statistics. 
 
-- name: Project 2
-  description: A few sentences describing your project.
-
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Texas Hold'em
+  description: Texas Hold'em card game simulator.
